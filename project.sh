@@ -1,1 +1,1 @@
-echo "This is my Jenkins sample project. Testing is completed UPDATE 2"
+echo "This is my Jenkins sample project. Testing is completed UPDATE 3"
